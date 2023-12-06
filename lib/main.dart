@@ -42,7 +42,7 @@ class Application extends StatelessWidget {
       elevation: 0,
       backgroundColor: Colors.grey[900],
       title: Text(
-        'Portfolio',
+        '0xFlutter',
         textAlign: TextAlign.center,
       ),
       titleTextStyle: TextStyle(color: Colors.white),
